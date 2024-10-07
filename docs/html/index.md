@@ -19,6 +19,7 @@ features:
   - title: 01 | Ввод/вывод 
     details: Ввод и вывод данных
     link: /html/01-input_output
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Задачи
+    link: /html/zadanya
+    details: Задачи для самостоятельного решения
 ---
